@@ -1,6 +1,8 @@
 # Attention-Based Deep Neural Network with Optimization and Explainable AI for Enhanced Intrusion Detection and Network Traffic Security in the Internet of Vehicles
 
-This repository contains the project files for an attention-based deep neural network with optimization and explainable AI techniques, designed for enhanced intrusion detection and network traffic security in the Internet of Vehicles.
+## About
+
+This project develops an attention-based deep neural network for intrusion detection in Internet of Vehicles (IoV) networks. It integrates optimization techniques and explainable AI methods to improve detection accuracy, interpret model decisions, and strengthen network traffic security.
 
 ## Setup
 
